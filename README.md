@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Facebook](https://img.shields.io/badge/SocialMedia-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.facebook.com/max.botukh/)
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:maksbotukh@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-botukh-927597206/)
 
 - 🔭 I’m mainly working on learn a code
 - 🌱 I’m currently learning C++
