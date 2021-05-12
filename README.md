@@ -3,7 +3,8 @@
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:maksbotukh@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-botukh-927597206/)
 
-- I'm just a man who is trying to learn a program and want to use it to help other people 😊 
+I'm just a man who is trying to learn a program and want to use it to help other people 😊 
+
 - 🔭 I’m mainly working on learn a code
 - 🌱 I’m currently learning C++
 - 💬 Ask me about anything
