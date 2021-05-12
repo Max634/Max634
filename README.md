@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:renovamenzxh@gmail.com)
+[![Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:maksbotukh@gmail.com)
 - 🔭 I’m mainly working on learn a code
 - 🌱 I’m currently learning C++
 - 💬 Ask me about anything
