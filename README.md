@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Facebook](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.facebook.com/max.botukh/)
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:maksbotukh@gmail.com)
 
 - 🔭 I’m mainly working on learn a code
