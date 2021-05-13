@@ -13,3 +13,5 @@ I'm just a man who is trying to learn a program and want to use it to help other
  My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max634&show_icons=true&theme=cobalt)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Max634/C-begginers-stuff)
