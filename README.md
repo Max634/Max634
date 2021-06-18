@@ -7,7 +7,7 @@ I'm just a man who is trying to learn a program and want to use it to help other
 
 - 🔭 I’m mainly working on learn a code
 - 🌱 I’m currently learning C++
-- 💬 Ask me about anything
+- 💬 Ask me anything
 - 🚀 I'm learning to build machine learning software 
    
  My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
