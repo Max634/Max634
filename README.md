@@ -6,7 +6,7 @@
 I'm just a man who is trying to learn a code and want to use it to help other people 😊 
 
 - 🔭 I’m mainly working on learn to code
-- 🌱 Currently learning C++
+- 🌱 Currently learning C++, Java, Python
 - 💬 Ask me anything
 - 🚀 I'm learning to build machine learning software 
    
